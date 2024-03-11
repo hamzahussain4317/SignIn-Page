@@ -1,3 +1,4 @@
+// from new branch//
 export const Variables = {
     ActionPara: 'Dont have an account?',
     EmailLabel: 'Enter your email here',
@@ -10,5 +11,5 @@ export const Variables = {
     RegTextPara: 'Lorem ipsum dolor sit amet consectetur. Pellentesque quis urna proin urna faucibus ut erat bibendum.',
     RememberCheckLabel: 'Remember me',
     Login: 'Login',
-    ActionReg:'Regsiter'
+    ActionReg: 'Regsiter'
 }
