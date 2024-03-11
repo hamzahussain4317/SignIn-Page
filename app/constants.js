@@ -1,4 +1,4 @@
-// from new branch//
+// from new branch features//
 export const Variables = {
     ActionPara: 'Dont have an account?',
     EmailLabel: 'Enter your email here',
